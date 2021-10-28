@@ -3,7 +3,7 @@
 
   <h3>Formulário</h3> 
   <p>
-    Formulário desenvolvido com Bootstrap, feito com ajuda de um mini curso de Bootstrap.
+    Formulário desenvolvido com Bootstrap. Desenvolvido com ajuda de um mini curso de Bootstrap, procurei pensar um layout clean.
   </p>
 <h2>Layout</h2>
   <p>
