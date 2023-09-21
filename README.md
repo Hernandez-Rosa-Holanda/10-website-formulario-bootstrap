@@ -13,8 +13,9 @@
 <h2>Tecnologias utilizadas</h2>
 
 <ul>
-  <li>HTML5 Semântico
+  <li>HTML 
   <li>Bootstrap
+  <li>Javascript 
   <li>Responsivo 
 </ul>
 
